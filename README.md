@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dretse
+- 👀 I’m interested in speech analysis, biometrics security and machine learning stuff
+- 🌱 I’m currently learning to use voice conversion for spoofing ASV systems during py PhD
+- 💞️ I’m looking to collaborate on a post-doctorate job, starting from october
+- 📫 How to reach me : usin my linkedin or my mail : dretse11@gmail.com
