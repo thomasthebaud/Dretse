@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thomas Thebaud, aka @Dretse
 - 👀 I’m interested in speech analysis, biometrics security and privacy preserving machine learning
 - 🌱 I’m currently learning to use Speech-to-Speech and Speech-to-Text Machine translation systems, such as XLS-R of SpeechT5
-- 💞️ I’m looking to collaborate on a post-doctorate job, starting from november
-- 📫 How to reach me : usin my linkedin or my mail : dretse11@gmail.com
+- 📫 How to reach me : usin my linkedin or my mail : tthebau1@jh.edu
